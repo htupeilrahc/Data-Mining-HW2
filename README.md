@@ -1,8 +1,8 @@
-# Data-Mining-HW2  | Time Series Anomaly Detection Toolkit
+# Data-Mining-HW2  | Time Series Anomaly Detection
 
-Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
+Python · TSLib · Autoformer · FEDformer · TimesNet
 
-一个示例仓库，展示如何基于 [TSLib](https://github.com/thuml/Time-Series-Library) 的 Autoformer、FEDformer 和 TimesNet 模型完成时序数据的异常检测、评估与可视化。
+基于 [TSLib](https://github.com/thuml/Time-Series-Library) 的 Autoformer、FEDformer 和 TimesNet 模型完成时序数据的异常检测、评估与可视化。
 
 ---
 
@@ -29,8 +29,7 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 - 🔹 **Autoformer**：滑动窗口级别的时序异常检测  
 - 🔹 **FEDformer**：频域增强的时序异常检测  
 - 🔹 **TimesNet**：二维时序特征提取与异常检测  
-- 🔹 自动计算并输出 **Accuracy**, **Precision**, **Recall**, **F1-score**  
-- 🔹 绘制并保存异常点可视化图表  
+- 🔹 自动计算并输出 **Accuracy**, **Precision**, **Recall**, **F1-score**   
 
 ---
 
@@ -58,6 +57,3 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 3. **运行实验**
    ```bash
    bash scripts/anomaly_detection/Tube/Autoformer_Tube.sh
-
----
-
