@@ -1,4 +1,4 @@
-# Data-Mining-HW2 🪄 | Time Series Anomaly Detection Toolkit
+# Data-Mining-HW2  | Time Series Anomaly Detection Toolkit
 
 Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 
@@ -61,6 +61,9 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 
 4.**运行实验**
 
+---
+
+
 ## 📖 Reference
 如果在学术工作中使用本项目或其组件，请引用：
   ```bash
@@ -82,6 +85,9 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
   booktitle = {NeurIPS},
   year      = {2021},
 }
+
+
+---
 
 ##🙏 Acknowledgements
 -感谢 TSLib 团队提供的 Autoformer、FEDformer 与 TimesNet 实现
