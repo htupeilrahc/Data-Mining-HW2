@@ -17,7 +17,7 @@ Python · TSLib · Autoformer · FEDformer · TimesNet
 | `models/`                               | 模型定义                                                | Autoformer、FEDformer、TimesNet                                 |
 | `scripts/anomaly_detection/Tube/`       | 一键运行脚本                                             | `Autoformer_Tube.sh`、`FEDformer_Tube.sh`、`TimesNet_Tube.sh` |
 | `utils/`                                | 辅助函数                                                | 日志、可视化、指标计算                                          |
-| `run.py` / `total.py`                   | 命令行入口                                              | 支持 `--task`、`--model`、`--dataset` 等参数                     |
+| `run.py`                                | 命令行入口                                              | 支持 `--task`、`--model`、`--dataset` 等参数                     |
 | `result_anomaly_detection.txt`          | 演示输出                                                | Precision/Recall/F1 等                                        |
 | `requirements.txt`                      | Python 依赖                                              | PyTorch, NumPy, Pandas, Matplotlib, TSLib 等                    |
 | `README.md`                             | 项目说明                                                | —                                                               |
