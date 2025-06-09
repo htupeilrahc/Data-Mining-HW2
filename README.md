@@ -59,35 +59,5 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
    ```bash
    bash scripts/anomaly_detection/Tube/Autoformer_Tube.sh
 
-4.**运行实验**
-
 ---
 
-
-## 📖 Reference
-如果在学术工作中使用本项目或其组件，请引用：
-  ```bibtex
-   @inproceedings{wu2023timesnet,
-     title     = {TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis},
-     author    = {Haixu Wu and Tengge Hu and Yong Liu and Hang Zhou and Jianmin Wang and Mingsheng Long},
-     booktitle = {International Conference on Learning Representations},
-     year      = {2023},
-   }
-   @inproceedings{zhou2022fedformer,
-     title     = {FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting},
-     author    = {Hang Zhou and Minghan Li and Zhen Cui and Yujuan Han and Mingsheng Long},
-     booktitle = {ICML},
-     year      = {2022},
-   }
-   @inproceedings{wu2021autoformer,
-     title     = {Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting},
-     author    = {Zhenguo Li and Haixu Wu and Xinyu Wu and Mingsheng Long},
-     booktitle = {NeurIPS},
-     year      = {2021},
-   }
-
-
----
-
-## 🙏 Acknowledgements
--感谢 TSLib 团队提供的 Autoformer、FEDformer 与 TimesNet 实现
