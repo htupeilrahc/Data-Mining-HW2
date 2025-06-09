@@ -66,7 +66,7 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 
 ## 📖 Reference
 如果在学术工作中使用本项目或其组件，请引用：
-  ```bash
+  ```bibtex
    @inproceedings{wu2023timesnet,
      title     = {TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis},
      author    = {Haixu Wu and Tengge Hu and Yong Liu and Hang Zhou and Jianmin Wang and Mingsheng Long},
