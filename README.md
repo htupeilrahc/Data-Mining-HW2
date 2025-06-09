@@ -8,9 +8,7 @@ Code for 2025S-Data Mining Section 1 Group 7
 
 - 🔹 使用 **Autoformer** 模型进行滑动窗口级别的异常检测  
 - 🔹 使用 **FEDformer** 模型进行频域增强的异常检测  
-- 🔹 自动计算并输出 Precision、Recall、F1-score  
-- 🔹 绘制并保存异常点可视化图表  
-- 🔹 一键式运行脚本，快速复现实验流程  
+- 🔹 自动计算并输出 Accuracy、Precision、Recall、F1-score
 
 ---
 
