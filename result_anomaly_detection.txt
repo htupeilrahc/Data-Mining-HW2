@@ -1,0 +1,159 @@
+anomaly_detection_PSM_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9766, Precision : 0.9836, Recall : 0.9314, F-score : 0.9567 
+
+anomaly_detection_tube2_test1_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9671, Precision : 0.0046, Recall : 0.1277, F-score : 0.0089 
+
+anomaly_detection_tube1_test1_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9884, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube2_test1_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9810, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube1_test1_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9845, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube3_test1_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9893, Precision : 0.0018, Recall : 0.0667, F-score : 0.0034 
+
+anomaly_detection_tube2_test1_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9791, Precision : 0.0000, Recall : 0.0005, F-score : 0.0001 
+
+anomaly_detection_tube4_test1_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9839, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube3_test1_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9675, Precision : 0.0005, Recall : 0.0640, F-score : 0.0011 
+
+anomaly_detection_tube5_test1_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9882, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube1_test1_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9786, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube4_test1_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9856, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube5_test1_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9627, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube3_test1_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9606, Precision : 0.0006, Recall : 0.0900, F-score : 0.0013 
+
+anomaly_detection_tube4_test1_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9704, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube5_test1_TimesNet_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9618, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube1_test_1.5_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9884, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube1_half_split_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9871, Precision : 0.0004, Recall : 0.2050, F-score : 0.0007 
+
+anomaly_detection_tube1_half_split_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9856, Precision : 0.0002, Recall : 0.1150, F-score : 0.0004 
+
+anomaly_detection_tube2_half_split_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9827, Precision : 0.0000, Recall : 0.0002, F-score : 0.0000 
+
+anomaly_detection_tube2_half_split_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9823, Precision : 0.0000, Recall : 0.0004, F-score : 0.0000 
+
+anomaly_detection_tube3_half_split_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9845, Precision : 0.0024, Recall : 0.1300, F-score : 0.0047 
+
+anomaly_detection_tube3_half_split_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9808, Precision : 0.0020, Recall : 0.1387, F-score : 0.0040 
+
+anomaly_detection_tube4_half_split_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9834, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube4_half_split_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9861, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube5_half_split_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9841, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube5_half_split_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9869, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_tube1_atleastone_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5847, Precision : 0.9913, Recall : 0.1302, F-score : 0.2302 
+
+anomaly_detection_tube1_atleastone_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6028, Precision : 0.9917, Recall : 0.1685, F-score : 0.2880 
+
+anomaly_detection_tube2_atleastone_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6873, Precision : 0.9990, Recall : 0.1850, F-score : 0.3122 
+
+anomaly_detection_tube2_atleastone_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6896, Precision : 0.9988, Recall : 0.1911, F-score : 0.3208 
+
+anomaly_detection_tube3_atleastone_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5648, Precision : 0.9953, Recall : 0.1443, F-score : 0.2521 
+
+anomaly_detection_tube3_atleastone_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6179, Precision : 0.9693, Recall : 0.2563, F-score : 0.4054 
+
+anomaly_detection_tube4_atleastone_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6871, Precision : 0.9998, Recall : 0.1472, F-score : 0.2566 
+
+anomaly_detection_tube4_atleastone_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6730, Precision : 0.9999, Recall : 0.1088, F-score : 0.1962 
+
+anomaly_detection_tube5_atleastone_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5390, Precision : 0.9993, Recall : 0.1179, F-score : 0.2108 
+
+anomaly_detection_tube5_atleastone_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6391, Precision : 0.9704, Recall : 0.3192, F-score : 0.4803 
+
+anomaly_detection_tube1_atleasttwo_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8677, Precision : 0.8456, Recall : 0.1606, F-score : 0.2700 
+
+anomaly_detection_tube1_atleasttwo_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8721, Precision : 0.8625, Recall : 0.1905, F-score : 0.3121 
+
+anomaly_detection_tube2_atleasttwo_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8618, Precision : 0.8312, Recall : 0.1771, F-score : 0.2920 
+
+anomaly_detection_tube2_atleasttwo_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8603, Precision : 0.8099, Recall : 0.1724, F-score : 0.2843 
+
+anomaly_detection_tube3_atleasttwo_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8513, Precision : 0.7390, Recall : 0.1173, F-score : 0.2025 
+
+anomaly_detection_tube3_atleasttwo_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8542, Precision : 0.7266, Recall : 0.1508, F-score : 0.2498 
+
+anomaly_detection_tube4_atleasttwo_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8621, Precision : 0.8248, Recall : 0.1658, F-score : 0.2760 
+
+anomaly_detection_tube4_atleasttwo_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8603, Precision : 0.8296, Recall : 0.1502, F-score : 0.2543 
+
+anomaly_detection_tube5_atleasttwo_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8484, Precision : 0.7858, Recall : 0.1043, F-score : 0.1842 
+
+anomaly_detection_tube5_atleasttwo_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.8592, Precision : 0.8143, Recall : 0.1839, F-score : 0.3001 
+
+anomaly_detection_tube1_atleastone_10f_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5869, Precision : 0.9998, Recall : 0.1338, F-score : 0.2360 
+
+anomaly_detection_tube1_atleastone_10f_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5974, Precision : 0.9997, Recall : 0.1559, F-score : 0.2697 
+
+anomaly_detection_tube2_atleastone_10f_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6638, Precision : 1.0000, Recall : 0.1236, F-score : 0.2200 
+
+anomaly_detection_tube2_atleastone_10f_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6609, Precision : 1.0000, Recall : 0.1160, F-score : 0.2079 
+
+anomaly_detection_tube3_atleastone_10f_Autoformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.5716, Precision : 0.9998, Recall : 0.1570, F-score : 0.2714 
+
+anomaly_detection_tube3_atleastone_10f_FEDformer_PSM_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.6037, Precision : 0.9859, Recall : 0.2234, F-score : 0.3642 
+
