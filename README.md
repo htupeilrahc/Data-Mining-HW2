@@ -29,8 +29,10 @@ Code for 2025S-Data Mining Section 1 Group 7
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<YourOrg>/<YourRepo>.git
-cd <YourRepo>
+gh repo clone htupeilrahc/Data-Mining-HW2
 
 # 2. 安装依赖
 pip install -r requirements.txt
+
+# 3.运行脚本
+bash ./scripts/anomaly_detection/Tube/Autoformer_Tube.sh
