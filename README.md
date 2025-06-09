@@ -1,4 +1,4 @@
-# Data-Mining-HW2  | Time Series Anomaly Detection
+# Data-Mining-HW2  | Time Series Anomaly Detection Group 7
 
 Python · TSLib · Autoformer · FEDformer · TimesNet
 
