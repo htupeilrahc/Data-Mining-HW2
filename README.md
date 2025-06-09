@@ -1,6 +1,6 @@
 # Data-Mining-HW2
 Code for 2025S-Data Mining Section 1 Group 7
-> 本项目基于 [TSLib](https://github.com/thuml/TSLib) 中的 Autoformer, TimesNet 和 FEDformer 模型，实现了对时序数据的异常检测、评估与可视化。
+> 本项目基于 [TSLib](https://github.com/thuml/Time-Series-Library) 中的 Autoformer, TimesNet 和 FEDformer 模型，实现了对时序数据的异常检测、评估与可视化。
 
 ---
 
