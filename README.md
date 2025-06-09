@@ -89,5 +89,5 @@ Python · PyPI · TSLib · Autoformer · FEDformer · TimesNet
 
 ---
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 -感谢 TSLib 团队提供的 Autoformer、FEDformer 与 TimesNet 实现
